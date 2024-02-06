@@ -1,4 +1,4 @@
-# Weather App
+# PyWeatherApp
 
 Weather App is a Python script that fetches and displays the current weather conditions for a specified location using the WeatherAPI. It also provides the option to convert the weather information into spoken words.
 
